@@ -1,4 +1,5 @@
 
+## Azure CLI 
 Log in to your registry
 
 ```sh
@@ -66,6 +67,14 @@ Result:
   }
 ]
 ```
+
+## Azure Service Connector
+- ![](../rsc/azure-connector-01.jpg)
+- ![](../rsc/azure-connector-02.jpg)
+- ![](../rsc/azure-connector-03.jpg)
+- ![](../rsc/azure-connector-04.jpg)
+- ![](../rsc/azure-connector-05.jpg)
+
 
 ## References
 - [Azure Container Registry documentation](https://learn.microsoft.com/en-us/azure/container-registry/)
